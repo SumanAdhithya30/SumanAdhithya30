@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanadhithya30&show_icons=true&locale=en" alt="sumanadhithya30" /></p>
 
-<h3 align="left">Trophies:</h3>
+<h3 align="center">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanadhithya30" alt="sumanadhithya30" /></a> </p>
 
 ## 📈 LeetCode Stats
