@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Adhithya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [MediChain](https://github.com/SumanAdhithya30/MediChain)
+- 🔭 I’m currently working on [MediChain](https://github.com/SumanAdhithya30/DevLink)
 
 - 🌱 I’m currently learning **MERN and DSA**
 
